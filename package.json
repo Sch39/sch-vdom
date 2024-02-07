@@ -1,0 +1,33 @@
+{
+  "name": "sch-vdom",
+  "version": "1.0.0",
+  "description": "untuk belajar cara membuat library front end",
+  "main": "index.js",
+  "scripts": {
+    "test-unit": "vitest",
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sch39/sch-vdom.git"
+  },
+  "keywords": [
+    "vdom",
+    "front",
+    "end",
+    "learning",
+    "simple"
+  ],
+  "author": "Sukron Chafidhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sch39/simple-vdom-renderer/issues"
+  },
+  "homepage": "https://github.com/Sch39/simple-vdom-renderer#readme",
+  "dependencies": {
+    "vite": "^5.0.12"
+  },
+  "devDependencies": {
+    "vitest": "^1.2.2"
+  }
+}
