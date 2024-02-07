@@ -1,0 +1,22 @@
+{
+  "name": "@sch-vdom/vdom",
+  "version": "1.0.0",
+  "description": "@sch-vdom/vdom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sch39/sch-vdom.git"
+  },
+  "keywords": [
+    "vdom"
+  ],
+  "author": "Sukron Chafidhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sch39/sch-vdom/issues"
+  },
+  "homepage": "https://github.com/Sch39/sch-vdom#readme"
+}
